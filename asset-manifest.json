@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sushiwebsite/static/css/main.c682c00d.css",
+    "main.js": "/sushiwebsite/static/js/main.bc963480.js",
+    "static/js/787.2ce2ebd0.chunk.js": "/sushiwebsite/static/js/787.2ce2ebd0.chunk.js",
+    "static/media/sakura.png": "/sushiwebsite/static/media/sakura.36e26c448de012adf627.png",
+    "static/media/mountainFuji.png": "/sushiwebsite/static/media/mountainFuji.478dff8f7329901533fb.png",
+    "static/media/wave.png": "/sushiwebsite/static/media/wave.1dc71e19b12993ee83b8.png",
+    "static/media/decoration.png": "/sushiwebsite/static/media/decoration.3b64fe5a2e7de8711405.png",
+    "static/media/logo_transparent.png": "/sushiwebsite/static/media/logo_transparent.f1cefb927da583573b8a.png",
+    "static/media/MISTRAL.TTF": "/sushiwebsite/static/media/MISTRAL.bab29caa6bb2af7ee769.TTF",
+    "static/media/Dragon-Serial Regular.ttf": "/sushiwebsite/static/media/Dragon-Serial Regular.9535a550961f3fdf74c8.ttf",
+    "index.html": "/sushiwebsite/index.html",
+    "main.c682c00d.css.map": "/sushiwebsite/static/css/main.c682c00d.css.map",
+    "main.bc963480.js.map": "/sushiwebsite/static/js/main.bc963480.js.map",
+    "787.2ce2ebd0.chunk.js.map": "/sushiwebsite/static/js/787.2ce2ebd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c682c00d.css",
+    "static/js/main.bc963480.js"
+  ]
+}
